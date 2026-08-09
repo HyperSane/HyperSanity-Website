@@ -92,6 +92,6 @@ Contradictions = outliers, like disability etc.
 ## Formula of humanity
 
 act so that you treat humanity, whether in your own person or in that of another, always as an end and never as a mere means.
-(Antithesis [[Hyper-Sanity/Hyper-Framework/Hyper-Modalities/Tri-Modalities/Red/Hyper-Malevolence/Machiavelli/Machiavelli Ethics]])
+(Antithesis  [[Hyper-Sanity/Hyper-Framework/Hyper-Modalities/Tri-Modalities/Red/Hyper-Malevolence/Machiavelli/Machiavelli Ethics]] )
 
 
