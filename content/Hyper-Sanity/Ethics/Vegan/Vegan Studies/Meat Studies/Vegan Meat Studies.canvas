@@ -1,0 +1,51 @@
+{
+	"edges":[
+		{
+			"color":"1",
+			"fromNode":"e76b8cc14f7a2ac3",
+			"fromSide":"bottom",
+			"id":"1d174deef80f93e8",
+			"styleAttributes":{},
+			"toNode":"2851140f5aeeba6f",
+			"toSide":"top"
+		},
+		{
+			"color":"3",
+			"fromNode":"6d94bf18a905cb67",
+			"fromSide":"right",
+			"id":"989b1bd7062a5e6b",
+			"styleAttributes":{},
+			"toNode":"484171ed2a7855aa",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"frontmatter":{},
+		"version":"1.0-1.0"
+	},
+	"nodes":[
+		{"color":"2","height":1160,"id":"484171ed2a7855aa","label":"Cancer Studies","type":"group","width":1420,"x":3780,"y":-3000},
+		{"color":"2","height":1060,"id":"e76b8cc14f7a2ac3","label":"Hormones","type":"group","width":1280,"x":2080,"y":-1360},
+		{"color":"1","height":1160,"id":"6d94bf18a905cb67","label":"Cancer","type":"group","width":1260,"x":2020,"y":-3000},
+		{"color":"1","height":1080,"id":"2851140f5aeeba6f","label":"Diabetes","type":"group","width":1280,"x":2080,"y":240},
+		{"color":"3","height":960,"id":"d5092fce133d4da4","label":"Tables","type":"group","width":1160,"x":-4880,"y":-880},
+		{"height":400,"id":"2ce2b7c9653992c0","label":"ACM","type":"group","width":400,"x":-1040,"y":-440},
+		{"color":"3","file":"Hyper-Sanity/Hyper-Ethics/Vegan/Vegan Studies/Meat Studies/Veganism Meat Cancer 1-1.md","height":940,"id":"042fa0403e25ddac","type":"file","width":680,"x":2080,"y":-2880},
+		{
+			"color":"3",
+			"height":340,
+			"id":"e88289e6153e11a7",
+			"styleAttributes":{},
+			"text":"\n# 1\n\n| Num | Year |     | Site |     |     | Note |\n| --- | ---- | --- | ---- | --- | --- | ---- |\n|     |      |     |      |     |     |      |\n|     |      |     |      |     |     |      |\n|     |      |     |      |     |     |      |\n|     |      |     |      |     |     |      |",
+			"type":"text",
+			"width":460,
+			"x":-4840,
+			"y":-840
+		},
+		{"file":"Hyper-Sanity/Hyper-Ethics/Vegan/Antagonistic Pleiotropy.md","height":560,"id":"4fb52bf7d62ad299","type":"file","width":660,"x":-420,"y":-1400},
+		{"file":"Hyper-Sanity/Hyper-Ethics/Vegan/Vegan Studies/Meat Studies/Veganism Meat ACM 1-1.md","height":1475,"id":"9378f850dc84effc","type":"file","width":720,"x":200,"y":-720},
+		{"color":"3","file":"Hyper-Sanity/Hyper-Ethics/Vegan/Vegan Studies/Meat Studies/ Vegan Diet NMCD Journal.md","height":940,"id":"520cfd39397221db","type":"file","width":760,"x":3840,"y":-2880},
+		{"file":"Hyper-Sanity/Hyper-Ethics/Vegan/Vegan Studies/Meat Studies/Veganism Meat Diabetes.md","height":680,"id":"c80bd8d715a4890c","type":"file","width":640,"x":2160,"y":360},
+		{"file":"Hyper-Sanity/Hyper-Ethics/Vegan/Vegan Studies/Meat Studies/Veganism Meat Hormones 1-1.md","height":720,"id":"9f35078bde65474b","type":"file","width":500,"x":2120,"y":-1280}
+	]
+}
