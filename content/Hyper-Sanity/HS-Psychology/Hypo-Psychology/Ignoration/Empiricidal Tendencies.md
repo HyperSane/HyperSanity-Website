@@ -935,3 +935,6 @@ What it cannot safely become is **incapable of discovering that it is wrong.**
 ---
 
 [[Ignoration]]
+
+© 2026 HyperSane Demon. All Rights Reserved.
+Unauthorized reproduction, republication, or AI-training use prohibited.

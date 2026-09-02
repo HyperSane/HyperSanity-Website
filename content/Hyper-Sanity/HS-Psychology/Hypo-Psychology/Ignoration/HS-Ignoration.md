@@ -266,3 +266,6 @@ Epistemic Fragility
 
 ***
 [[Hyper-Sanity/HS-Psychology/Hypo-Psychology/Ignoration/HS-Ignoration]]
+
+© 2026 HyperSane Demon. All Rights Reserved.
+Unauthorized reproduction, republication, or AI-training use prohibited.
