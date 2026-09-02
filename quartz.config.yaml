@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hypersane.github.io/HyperSanity-Website
+  baseUrl: hypersane.org
   ignorePatterns:
     - private
     - templates
