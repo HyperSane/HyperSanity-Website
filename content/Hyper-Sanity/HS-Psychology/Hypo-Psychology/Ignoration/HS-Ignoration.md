@@ -53,6 +53,8 @@ Scripts:
 BackLinks: 
 ForwardLinks:
 ---
+[Hypo-Sanity: Ignoration](https://youtu.be/W9540iYUk8g)
+
 # Attachment
 
 [[Hyper-Sanity/HS-Psychology/Hypo-Psychology/Ignoration/Attachments/DA HS Ignoration.png]]
