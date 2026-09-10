@@ -17,3 +17,4 @@ quartz/cli/tui/dist/
 .zip
 .tar
 .tar.gz
+*.7z
