@@ -18,3 +18,4 @@ quartz/cli/tui/dist/
 .tar
 .tar.gz
 *.7z
+/content/.makemd
