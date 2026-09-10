@@ -13,3 +13,7 @@ replit.nix
 quartz/cli/tui/dist/
 .space
 .plugin
+.7z
+.zip
+.tar
+.tar.gz
