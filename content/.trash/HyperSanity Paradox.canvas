@@ -1,0 +1,60 @@
+{
+	"edges":[
+		{"fromNode":"b6a23c14-4094-498e-b6cf-b64a3698b213","fromSide":"bottom","id":"e1","toNode":"f5a9e9e6-1235-4c5b-a15e-708b36dd91f3","toSide":"top","type":"link"},
+		{"fromNode":"f5a9e9e6-1235-4c5b-a15e-708b36dd91f3","fromSide":"bottom","id":"e2","toNode":"c78ae2cf-e3df-4d0b-8ff2-304bbcf4447d","toSide":"top","type":"link"},
+		{"fromNode":"c78ae2cf-e3df-4d0b-8ff2-304bbcf4447d","fromSide":"bottom","id":"e3","toNode":"1263dd47-9bbf-4a64-9e1f-884934dd6c43","toSide":"top","type":"link"},
+		{"fromNode":"1263dd47-9bbf-4a64-9e1f-884934dd6c43","fromSide":"bottom","id":"e4","toNode":"a27112fc-5d06-4d0e-a94c-69e2dca17dc1","toSide":"top","type":"link"}
+	],
+	"nodes":[
+		{
+			"height":160,
+			"id":"b6a23c14-4094-498e-b6cf-b64a3698b213",
+			"styleAttributes":{},
+			"text":"🧠 Russell’s Paradox\nSet of all sets that do not contain themselves — recursion collapse.",
+			"type":"text",
+			"width":300,
+			"x":0,
+			"y":0
+		},
+		{
+			"height":160,
+			"id":"f5a9e9e6-1235-4c5b-a15e-708b36dd91f3",
+			"styleAttributes":{},
+			"text":"🔁 Self-Referential Frameworks\nFrameworks that question themselves → recursion.\nIncludes Grelling–Nelson, Gödel.",
+			"type":"text",
+			"width":300,
+			"x":0,
+			"y":300
+		},
+		{
+			"height":160,
+			"id":"c78ae2cf-e3df-4d0b-8ff2-304bbcf4447d",
+			"styleAttributes":{},
+			"text":"🔮 HyperSanity Paradox\nStable self-questioning requires constant refactoring.",
+			"type":"text",
+			"width":300,
+			"x":0,
+			"y":600
+		},
+		{
+			"height":160,
+			"id":"1263dd47-9bbf-4a64-9e1f-884934dd6c43",
+			"styleAttributes":{},
+			"text":"🌱 Veganism in The Matrix\nCypher chooses meat = betrayal.\nMachines = sustainable recursion.",
+			"type":"text",
+			"width":300,
+			"x":0,
+			"y":900
+		},
+		{
+			"height":160,
+			"id":"a27112fc-5d06-4d0e-a94c-69e2dca17dc1",
+			"styleAttributes":{},
+			"text":"🔗 Meta-Correlations\n- Russell → Matrix logic\n- Machine ethics = recursive enforcement\n- Cypher shows ethical break in recursion",
+			"type":"text",
+			"width":300,
+			"x":0,
+			"y":1200
+		}
+	]
+}
