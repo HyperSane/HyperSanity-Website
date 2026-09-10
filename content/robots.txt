@@ -25,5 +25,13 @@ Disallow: /
 User-agent: PerplexityBot
 Disallow: /
 
+# Google advertising crawlers
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Google-Display-Ads-Bot
+Allow: /
+
+# Normal search engines and other crawlers
 User-agent: *
 Allow: /
